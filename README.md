@@ -62,8 +62,3 @@ Stored using **localStorage**.
 | Logic | Vanilla JavaScript |
 | Storage | LocalStorage (for admin data, logs, knowledge base) |
 | Optional | Web Speech API for voice input/output |
-
----
-
-## 📂 Project Structure
-
